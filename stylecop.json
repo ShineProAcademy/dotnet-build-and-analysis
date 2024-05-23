@@ -4,8 +4,11 @@
         "orderingRules": {
             "usingDirectivesPlacement": "preserve"
         },
-        "readabilityRules": {
-
+        "documentationRules": {
+            "companyName": "FooCorp",
+            "copyrightText": "Copyright (c) {companyName}. All rights reserved.",
+            "headerDecoration": "-----------------------------------------------------------------------",
+            "xmlHeader": false
         }
     }
 }
